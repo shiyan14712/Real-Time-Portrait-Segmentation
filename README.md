@@ -9,6 +9,13 @@ This project uses Deep Learning and accepts monocular images or videos as input,
   - Guidance
     - Installation
     - Warnings
+   - Dependencies
+   - Author
+   - References
+
+## Guidance
+### Installation
+### Warnings
 
 ## Dependencies
 

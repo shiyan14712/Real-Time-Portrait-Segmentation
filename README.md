@@ -5,19 +5,28 @@ This project uses Deep Learning and accepts monocular images or videos as input,
 
 ## Index
 - Real-Time-Portrait-Segmentation
-  - Introduction
-  - Guidance
+  - [Introduction](#Real-Time-Portrait-Segmentation)
+  - [Guidance](#Guidance)
     - Installation
     - Warnings
-   - Dependencies
-   - Author
-   - References
+  - Dependencies
+  - Datasets
+  - Architecture
+  - Demo
+  - Author
+  - References
 
 ## Guidance
 ### Installation
 ### Warnings
 
 ## Dependencies
+
+## Demo
+
+## Architecture
+
+## Demo
 
 ## Author
 

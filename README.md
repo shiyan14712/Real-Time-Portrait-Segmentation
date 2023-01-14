@@ -48,7 +48,7 @@ This project uses Deep Learning and accepts monocular images or videos as input,
 
 [8]Zhang S H, Dong X, Li H, et al. PortraitNet: Real-time portrait segmentation network for mobile device[J]. Computers & Graphics, 2019, 80: 104-113.
 
-[9]Ke Z, Sun J, Li K, et al. Modnet: Real-time trimap-free portrait matting via objective decomposition[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2022, 36(1): 1140-1147. 
+[9]Ke Z, Sun J, Li K, et al. [Modnet: Real-time trimap-free portrait matting via objective decomposition](https://ojs.aaai.org/index.php/AAAI/article/view/19999)[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2022, 36(1): 1140-1147. 
 
 [10]Grishchenko I, Bazarevsky V, Zanfir A, et al. BlazePose GHUM Holistic: Real-time 3D Human Landmarks and Pose Estimation[J]. arXiv preprint arXiv:2206.11678, 2022.
 

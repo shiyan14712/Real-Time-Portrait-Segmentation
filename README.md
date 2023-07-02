@@ -3,6 +3,8 @@ A real-time portrait segmentation project.
 
 This project uses Deep Learning and accepts monocular images or videos as input, which can better achieve real-time portrait matting with good performance.
 
+**This project has been temporarily paused**
+
 ## Index
 - Real-Time-Portrait-Segmentation
   - [Introduction](#Real-Time-Portrait-Segmentation)

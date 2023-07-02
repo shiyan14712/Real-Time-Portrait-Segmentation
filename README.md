@@ -1,5 +1,5 @@
-# Real-Time-Portrait-Segmentation
-A real-time portrait segmentation project.
+# Real-Time-Portrait-Matting
+A real-time portrait matting project.
 
 This project uses Deep Learning and accepts monocular images or videos as input, which can better achieve real-time portrait matting with good performance.
 
@@ -60,8 +60,4 @@ This project uses Deep Learning and accepts monocular images or videos as input,
 
 ## Postscript
 
-> As my graduation design, the project will be my main task from Jan. to Apr. in 2023. 
-
-> When the concept, implementation approach and techonology of this project were just determinded, I unfortunately infected with the covid-19. What's worse, the shadow brought by the breakup, the failure of math exam and the bad memories of fatal mistakes I made last year lead to my intensly depressive emotions that makes me work in a depressed mood. Ah, I'm just really irritable because 2022 is so terrible that everything that bothers me has a mediocre and even bad endding, but I STILL BELIEVE everthing I expect will have a good result in 2023 with my persistence and efforts.
-
-> So, in general, every cloud has a silver lining, and every sad or unpleasant situation has a positive side to it. I have drawn lessons from the decisions taken. One CANNOT step into the same river twice, and I am still full  of hope, warm and serious.
+> As my graduation design, the project will be my main task from Jan. to Apr. in 2023. The project has been roughly completed up to now.
